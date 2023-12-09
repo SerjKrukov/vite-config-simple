@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite serve src",
+    "prod": "serve dist",
     "build": "vite build src --outDir ../dist",
     "preview": "vite preview"
   },
